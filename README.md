@@ -4,7 +4,7 @@
 
 <p align="center">
   🌐<a href="https://prachi-developer.vercel.app"> Portfolio</a> •
-  🔗a href="https://linkedin.com/in/awesome-prachi-patel"> LinkedIn</a> •
+  🔗<a href="https://linkedin.com/in/awesome-prachi-patel"> LinkedIn</a> •
   ✉️<a href="mailto:awesomeprachipatel@gmail.com"> Email</a>
 </p>
  
