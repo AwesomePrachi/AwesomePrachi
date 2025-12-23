@@ -62,12 +62,4 @@
 
 ---
 
-## 📬 Connect With Me
-
-- 📧 Email: awesomeprachipatel@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/awesome-prachi-patel  
-- 💻 GitHub: https://github.com/AwesomePrachi  
-
----
-
-⭐ Thanks for visiting my GitHub profile!
+⭐ Thanks for visiting my profile!
