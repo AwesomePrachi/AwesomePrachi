@@ -3,9 +3,9 @@
 <h3 align="center">MERN Stack Developer | Full-Stack Web Enthusiast</h3>
 
 <p align="center">
-  🌐<a href="https://prachi-dev.vercel.app"> Portfolio</a> •
-  🔗<a href="https://linkedin.com/in/awesome-prachi-patel"> LinkedIn</a> •
-  ✉️<a href="mailto:awesomeprachipatel@gmail.com"> Email</a>
+  🌐 <a href="https://prachi-dev.vercel.app">Portfolio</a> •
+  🔗 <a href="https://linkedin.com/in/awesome-prachi-patel">LinkedIn</a> •
+  ✉️ <a href="mailto:awesomeprachipatel@gmail.com">Email</a>
 </p>
  
 ---
