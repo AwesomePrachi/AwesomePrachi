@@ -3,7 +3,7 @@
 <h3 align="center">MERN Stack Developer | Full-Stack Web Enthusiast</h3>
 
 <p align="center">
-  🌐<a href="https://prachi-developer.vercel.app"> Portfolio</a> •
+  🌐<a href="https://prachi-dev.vercel.app"> Portfolio</a> •
   🔗<a href="https://linkedin.com/in/awesome-prachi-patel"> LinkedIn</a> •
   ✉️<a href="mailto:awesomeprachipatel@gmail.com"> Email</a>
 </p>
@@ -31,7 +31,7 @@
 
 ## Technical Skills
 
-### Frontend
+
 <p>
   <img src="https://img.shields.io/badge/HTML5-0F172A?style=for-the-badge&logo=html5&logoColor=E34F26"/>
   <img src="https://img.shields.io/badge/CSS3-0F172A?style=for-the-badge&logo=css3&logoColor=1572B6"/>
@@ -39,18 +39,12 @@
   <img src="https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Bootstrap-0F172A?style=for-the-badge&logo=bootstrap&logoColor=7952B3"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8"/>
-</p>
 
-### Backend
-<p>
   <img src="https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=node.js&logoColor=339933"/>
   <img src="https://img.shields.io/badge/Express.js-0F172A?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-0F172A?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
   <img src="https://img.shields.io/badge/SQL-0F172A?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
-</p>
 
-### Tools & Platforms
-<p>
   <img src="https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=F05032"/>
   <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vite-0F172A?style=for-the-badge&logo=vite&logoColor=646CFF"/>
