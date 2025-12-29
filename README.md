@@ -19,7 +19,7 @@
 
 ---
 
-## 🧩 Recent Featured Projects
+## 🧩 Featured Projects
 
 - 🛒 **Haveit** – Full-stack grocery & e-commerce platform  
 - 📇 **Contact Manager** – CRUD contact management app  
