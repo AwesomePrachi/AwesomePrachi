@@ -29,7 +29,7 @@
 
 ---
 
-## Technical Skills
+## 🛠️ Technical Skills
 
 
 <p>
